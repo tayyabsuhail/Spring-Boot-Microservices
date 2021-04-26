@@ -1,0 +1,13 @@
+- **Spring boot microservices and spring cloud**
+
+  - Restful Microservices in Java.
+  - Implement User's Authentication
+  - Implement User Authorization with Spring Security and JWT
+  - Eureka Discovery Service
+  - Spring Cloud API Gateway (Zuul)
+  - JPA to persist data into a database.
+  - Cloud Config Server for centralized configurations
+  - MySQL Server and persist data into MySQL.
+  - Spring Cloud Bus and Rabbit MQ
+  - Spring Boot Actuator for health checks
+  -Centralized Logging with ELK Stack (Logstash, Elasticsearch, Kibana)
